@@ -24,5 +24,5 @@ and **interactive dashboards** using tools like Python, Excel, Power BI, and Tab
 - Email: [prajwalpachare6407@gmail.com](mailto:prajwalpachare6407@gmail.com)
 - LinkedIn: [linkedin.com/in/prajwal-pachare-843907204](https://www.linkedin.com/in/prajwal-pachare-843907204/)
 - GitHub: [github.com/Prajwal4289](https://github.com/Prajwal4289)
-
+- 
 😄 Pronouns: He/Him
